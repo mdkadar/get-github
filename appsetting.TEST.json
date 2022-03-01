@@ -1,0 +1,8 @@
+{
+  "ApplicationSettings": {
+    "DatabaseUserId": "test",
+    "DatabaseServerName": "test",
+    "DatabaseName": "DatabaseDate-PC-DB-ENV",
+    "AllowedOrigins": "temp"
+  }
+}
